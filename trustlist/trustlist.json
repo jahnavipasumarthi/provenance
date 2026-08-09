@@ -1,0 +1,10 @@
+{
+    "trusted":[
+        "TeamABC",
+        "CameraCompany"
+    ],
+
+    "revoked":[
+        "OldCamera123"
+    ]
+}

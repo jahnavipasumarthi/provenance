@@ -1,0 +1,14 @@
+{
+  "trust_list": [
+    {
+      "issuer": "northcam",
+      "public_key_b64": "K4vyv/eBSka/Lycp0KyaPLUzkkl3fTLhoF8NdYu/7h8=",
+      "status": "active"
+    },
+    {
+      "issuer": "ghostsign",
+      "public_key_b64": "1RyOHpgSnTbOiJkF1NVwu9s8eaCSghYF3OM7aklkgx8=",
+      "status": "revoked"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "claim": {
+    "asset_id": "A002",
+    "capture_device": "NorthCam ONE",
+    "captured_at": "2026-01-01T12:00:00Z",
+    "assertions": [
+      {
+        "action": "c2pa.created",
+        "software": "camera-firmware-4.1"
+      }
+    ],
+    "hard_binding_sha256": "6620006895446dea58d0e70b4db7246ec73bb011c41bbba0e0307ad0d38984cd",
+    "soft_binding_phash": "111001000000111000011111101000101110000101001000011101110011110"
+  },
+  "signature_b64": "SJZFQSZlDDAdu4RO0qbv5hjszbpfKuKLjcB6zCpIzSUWce04M9YESSKF6RNfGsXWkea5koG0CLX40MiT27aTBg==",
+  "issuer": "northcam",
+  "public_key_b64": "K4vyv/eBSka/Lycp0KyaPLUzkkl3fTLhoF8NdYu/7h8=",
+  "algorithm": "Ed25519"
+}
